@@ -1,0 +1,39 @@
+img{
+    height: 288px;
+    border-radius: 10px;
+    margin: 15px;
+}
+h3{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Outfit;
+    color: #1F314F;
+    margin: 20px;
+}
+p{
+    font-size: 15px;
+    word-spacing: 0.19px;
+    font-family: Outfit;
+    color: #7D889E;
+    margin: 20px;
+}
+.qrb{
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    border-radius: 20px;
+    stroke: #979797;
+    margin-top: 152px;
+}
+.outfit{
+   font-family: "Outfit", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+ }
+ .attribution{
+    margin-top: 10px;
+    
+ }
+
+    
